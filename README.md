@@ -1,7 +1,7 @@
 # Self Clock
 
 A dual-timezone desktop clock app for Windows, built with Tauri v2 + Svelte 5 + TypeScript.
-
+![Self Clock](./docs/screenshot.png)
 ## Features
 
 - **Dual Timezone Display** — Shows local time and working time simultaneously
